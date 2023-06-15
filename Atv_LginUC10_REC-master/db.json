@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Pedro",
+      "email": "pedro.email@email",
+      "password": "123666777"
+    },
+    {
+        "nome": "Kauan",
+        "email": "kauan.email@email",
+        "password": "12345",
+        "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Patrick",
+      "email": "patrick.email@email",
+      "password": "$2a$10$B8XJXsOS8LmjEsDUNjpBvuD.pR2U8CFaakCku5X1Vl7ZqLU/bnisu"
+    },
+    {
+      "email": "lucas.email@email",
+      "password": "$2a$10$B8XJXsOS8LmjEsDUNjpBvuD.pR2U8CFaakCku5X1Vl7ZqLU/bnisu",
+      "nome": "lucas",
+      "id": 4
+    },{
+
+        "email": "vinicio.email@email",
+        "password": "$2a$10$B8XJXsOS8LmjEsDUNjpBvuD.pR2U8CFaakCku5X1Vl7ZqLU/bnisu",
+        "nome": "vinicio",
+        "id": 5
+    }
+
+]
+}
